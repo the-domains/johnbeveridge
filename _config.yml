@@ -1,6 +1,6 @@
 name: JohnBeveridge
 favicon: null
-layout_spectrum: 0.99722
+layout_spectrum: 0.27702
 typography_spectrum: 0.24381
 title: My Take
 cta:
@@ -22,8 +22,8 @@ color:
     - '#fea300'
     - '#5ccadc'
     - '#5682b1'
-  brandStrength: 0.1720120026730001
-  lightness: 0.912940920330584
-  saturation: 0.0790542340837419
-  rhythmicContrast: 0.5621181456372142
+  brandStrength: 0.25
+  lightness: 0.25
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
