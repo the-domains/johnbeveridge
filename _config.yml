@@ -1,4 +1,4 @@
-name: JohnBeveridge
+name: John Beveridge
 favicon: null
 layout_spectrum: 0.27702
 typography_spectrum: 0.24381
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#0a4a8e'
-    - '#fea300'
-    - '#5ccadc'
-    - '#5682b1'
+    - '#024d75'
+    - '#ffad00'
+    - '#000000'
+    - '#00ffff'
+    - '#ff0000'
   brandStrength: 0.25
   lightness: 0.25
   saturation: 0.1875
